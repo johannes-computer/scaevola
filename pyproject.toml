@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "scaevola"
-version = "0.0.0"
+version = "1.0.0"
 description = "class with preset right handed magic methods"
 readme = "README.rst"
 authors = [
